@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=multiplication
+comment1.params=itemA\ itemB
+comment1.target=multiplication(java.math.BigInteger,\ java.math.BigInteger)
+comment2.params=x\ y
+comment2.target=void\ multiply(java.math.BigInteger,\ java.math.BigInteger)
+numComments=3

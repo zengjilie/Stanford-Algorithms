@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Inversion
+comment1.params=
+comment1.target=Inversion()
+comment2.params=arr
+comment2.target=int[]\ MergeSort(int[])
+comment3.params=arr\ start\ end
+comment3.target=int[]\ split(int[],\ int,\ int)
+comment4.params=n\ Ls\ Rs
+comment4.target=int[]\ merge(int,\ int[],\ int[])
+comment5.params=
+comment5.target=java.math.BigInteger\ countInversions()
+numComments=6
